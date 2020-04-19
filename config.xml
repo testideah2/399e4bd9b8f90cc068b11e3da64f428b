@@ -5,7 +5,7 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "hd.kinocom.app"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
     <name>ТЕСТ. KinoCom</name>
 
@@ -31,7 +31,7 @@
     <preference name='WindowsToastCapable' value='true' />
 
     <preference name="SplashMaintainAspectRatio" value="true" />
-    <preference name="SplashScreenSpinnerColor" value="#FF7900" />
+    <preference name="SplashScreenSpinnerColor" value="#FF9200" />
     
     <platform name="android">
       <edit-config file="app/src/main/AndroidManifest.xml" mode="merge" target="/manifest/application">
@@ -41,12 +41,12 @@
 
 
     <platform name="android">
-        <icon src="res/android/icon/7b84c4ac7f1eade3b09078514f9fa1d5.png" density="ldpi" />
-        <icon src="res/android/icon/438a1977c2dc41e5457ba87491cc8f45.png" density="mdpi" />
-        <icon src="res/android/icon/a3a55bc895af329adb996f2c69261488.png" density="hdpi" />
-        <icon src="res/android/icon/140bc792d68e1a1a8ee05b97d1b87cd2.png" density="xhdpi" />
-        <icon src="res/android/icon/46dcaadfdebe20331e67861f871fe120.png" density="xxhdpi" />
-        <icon src="res/android/icon/eb1c1ca0324aa9df955984d29632fd30.png" density="xxxhdpi" />
+        <icon src="res/android/icon/4d94dd15c69097e476c8b29cdf5590e7.png" density="ldpi" />
+        <icon src="res/android/icon/92700ae104a769e94b5518252fd42ddf.png" density="mdpi" />
+        <icon src="res/android/icon/98c5407c97d009759a39ba0eb7d5b56e.png" density="hdpi" />
+        <icon src="res/android/icon/e248893f5f9aa7912bcd17c859f34593.png" density="xhdpi" />
+        <icon src="res/android/icon/a0c3437835fa4719dca7fe8dbad8413f.png" density="xxhdpi" />
+        <icon src="res/android/icon/4a74184584f75e21caca02306c675706.png" density="xxxhdpi" />
 
         <splash src="res/android/screen/1c4f4c54d46d7919dd26bc3d8ddaf0b1.png" density="port-hdpi"/>
         <splash src="res/android/screen/d937f9d44fc21471d9fb16ff99965c2d.png" density="port-ldpi"/>
