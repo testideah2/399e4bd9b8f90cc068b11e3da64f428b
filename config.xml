@@ -5,7 +5,7 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "hd.kinocom.app"
         versionCode = "10"
-        version     = "1.1.0">
+        version     = "1.2.0">
 
     <name>ТЕСТ. KinoCom</name>
 
@@ -41,8 +41,8 @@
 
 
     <platform name="android">
-        <icon src="res/android/icon/4d94dd15c69097e476c8b29cdf5590e7.png" density="ldpi" />
-        <icon src="res/android/icon/92700ae104a769e94b5518252fd42ddf.png" density="mdpi" />
+        <icon src="res/android/icon/a4aa6273f9b7b4cab3adffe34816c148.png" density="ldpi" />
+        <icon src="res/android/icon/3f03d837cd4acc7041b49f3057b91dbf.png" density="mdpi" />
         <icon src="res/android/icon/98c5407c97d009759a39ba0eb7d5b56e.png" density="hdpi" />
         <icon src="res/android/icon/e248893f5f9aa7912bcd17c859f34593.png" density="xhdpi" />
         <icon src="res/android/icon/a0c3437835fa4719dca7fe8dbad8413f.png" density="xxhdpi" />
